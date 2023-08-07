@@ -1,0 +1,15 @@
+:root{
+    --cor-de-fundo: #EBECEE;
+    --cor-de-menu: #c9e038;  
+    --cor-de-letra: #09cd4e;
+    --cor-de-footer: #c82828;
+    --cor-de-foo: #5b4a4a;
+}
+body{
+    background-color:var(--cor-de-letra)
+}
+
+h1{
+    color:#EBECEE
+}
+
